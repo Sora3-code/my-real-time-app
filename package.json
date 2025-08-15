@@ -2,7 +2,7 @@
   "name": "z04",
   "version": "1.0.0",
   "description": "My First Electron App",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
